@@ -1,7 +1,7 @@
 class JavaForOsx < Cask
-  url 'http://support.apple.com/downloads/DL1572/ja_JP/JavaForOSX2013-05.dmg'
+  url 'https://support.apple.com/downloads/DL1572/ja_JP/JavaForOSX2014-001.dmg'
   homepage 'http://support.apple.com/kb/DL1572'
-  sha256 '81e1155e44b2c606db78487ca1a02e31dbb3cfbf7e0581a4de3ded9e635a704e'
-  version '2013-05'
+  sha256 '97bc9b3c47af1f303710c8b15f2bcaedd6b40963c711a18da8eac1e49690a8a0'
+  version '2014-01'
   install 'JavaForOSX.pkg'
 end
